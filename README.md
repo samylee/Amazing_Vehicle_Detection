@@ -21,6 +21,6 @@ or:    Amazing_Vehicle_Detection.exe video 0  (for usbcam)
 1. 'Vehicle' include car+bus+truck.  
 2. The image zooms to 608 by default, so if you want to test larger size pictures, please contact the author.
 # Example result
-![image](https://github.com/samylee/Amazing_Head_Detection/blob/master/result.jpg)
+![image](https://github.com/samylee/Amazing_Vehicle_Detection/blob/master/result/3.jpg)
 # Reference
 https://blog.csdn.net/samylee
