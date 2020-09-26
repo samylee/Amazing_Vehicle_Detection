@@ -13,7 +13,7 @@ or:    Amazing_Vehicle_Detection.exe video test.avi  (for video)
 or:    Amazing_Vehicle_Detection.exe video 0  (for usbcam)
 ```
 # Algorithm efficiency
-| Algorithm | min_size | COCO2014-AP | CPU(ARMv7 @1.4GHz) Speed/FPS |
+| Algorithm | min_size | COCO2014-AP | CPU(i7-9700K @3.6GHz) Speed/FPS |
 |:------:|:------:|:------:|:------:|
 | YOLO-V3-416x416  | 12x12 | 0.5002(thresh-0.5, IOU-0.5) |526ms/1.9|
 | ours  | 12x12 | 0.4964(thresh-0.6, IOU-0.5) |46ms/21.7|
